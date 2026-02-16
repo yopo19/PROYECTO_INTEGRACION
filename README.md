@@ -2,6 +2,7 @@
 
 **Autor:** Juan Montoro  
 **Versión:** 1.0  
+**Repositorio:** [yopo19/PROYECTO_INTEGRACION](https://github.com/yopo19/PROYECTO_INTEGRACION)
 
 ## 📋 Resumen del Proyecto
 
