@@ -15,7 +15,7 @@ Puedes ver una demostración del funcionamiento del agente aquí:
 
 **[▶️ Ver Video en YouTube](https://youtu.be/J9fvlhpt4cM)** 
 
-*(Enlace pendiente de actualización)*
+
 
 ## 📚 Documentación
 
